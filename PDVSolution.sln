@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDVForms", "PDVSolution\PDVForms.csproj", "{69A2A2EA-28CC-40B8-97A2-7C189CDC4050}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOPDV", "BOPDV\BOPDV.csproj", "{E99B7833-7EDC-4901-B66C-EAD084D14160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAConnection", "DAConnection\DAConnection.csproj", "{332E8AF7-2646-4240-A187-746D3BCFB812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VOPDV", "VOPDV\VOPDV.csproj", "{42CDC7CE-3EA6-484A-853F-51E6847C048C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://luizfcl.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BOPDV\\BOPDV.csproj
+		SccProjectName1 = BOPDV
+		SccLocalPath1 = BOPDV
+		SccProjectUniqueName2 = DAConnection\\DAConnection.csproj
+		SccProjectName2 = DAConnection
+		SccLocalPath2 = DAConnection
+		SccProjectUniqueName3 = PDVSolution\\PDVForms.csproj
+		SccProjectName3 = PDVSolution
+		SccLocalPath3 = PDVSolution
+		SccProjectUniqueName4 = VOPDV\\VOPDV.csproj
+		SccProjectName4 = VOPDV
+		SccLocalPath4 = VOPDV
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A2A2EA-28CC-40B8-97A2-7C189CDC4050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A2A2EA-28CC-40B8-97A2-7C189CDC4050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A2A2EA-28CC-40B8-97A2-7C189CDC4050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A2A2EA-28CC-40B8-97A2-7C189CDC4050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99B7833-7EDC-4901-B66C-EAD084D14160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99B7833-7EDC-4901-B66C-EAD084D14160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99B7833-7EDC-4901-B66C-EAD084D14160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99B7833-7EDC-4901-B66C-EAD084D14160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{332E8AF7-2646-4240-A187-746D3BCFB812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332E8AF7-2646-4240-A187-746D3BCFB812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332E8AF7-2646-4240-A187-746D3BCFB812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332E8AF7-2646-4240-A187-746D3BCFB812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42CDC7CE-3EA6-484A-853F-51E6847C048C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CDC7CE-3EA6-484A-853F-51E6847C048C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42CDC7CE-3EA6-484A-853F-51E6847C048C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42CDC7CE-3EA6-484A-853F-51E6847C048C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
